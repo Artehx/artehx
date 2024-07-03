@@ -9,7 +9,8 @@ Me propuse a temprana edad que mi curiosidad por todo lo que hay detrás de un v
 
 Así que una vez terminé el bachillerato, me aventuré a adentrarme en este mundo tan increíble y amplio como es el mundo de la programación en un ciclo superior donde aprendí un gran número de tecnologías, tanto para el front como para el back.
 
-Rápidamente, aunque con mucho esfuerzo y varias caídas por el camino, la programación se fue convirtiendo en una de mis pasiones a la que le dedico gran parte de mi día a día.
+Rápidamente, aunque con mucho esfuerzo y varias caídas por el camino, la programación se fue convirtiendo en una de mis pasiones 
+a la que le dedico gran parte de mi día a día.
 
 Y poco a poco he ido pudiendo construir en la web todo lo que alguna vez imaginaba... ¡Y lo que queda! 😂
 
