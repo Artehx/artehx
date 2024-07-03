@@ -6,7 +6,7 @@ Soy Arturo, un joven de 21 años recién graduado en Desarrollo de Aplicaciones 
 Y voy a contaros un poco acerca de mí... 🤔
 
 Me propuse a temprana edad que mi curiosidad por todo lo que hay detrás de un videojuego o de la web no se podía quedar en 
-el tintero. Siempre me he quedado alucinado por las funcionalidades que ofrecen ciertas páginas, las dinámicas visuales o todo el trasfondo que existe detrás, pero que a esa edad no comprendía del todo.
+el tintero y siempre me he quedado alucinado por las funcionalidades que ofrecen ciertas páginas, las dinámicas visuales o todo el trasfondo que existe detrás, pero que a esa edad no comprendía del todo.
 
 Así que una vez terminé el bachillerato, me aventuré a adentrarme en este mundo tan increíble y amplio como es el mundo de la programación en un ciclo superior donde aprendí un gran número de tecnologías, tanto para el front como para el back.
 
